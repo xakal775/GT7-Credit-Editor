@@ -1,0 +1,11 @@
+# Nunca publicar saves de jogadores, backups ou arquivos temporários.
+gt7save.bin
+*.bak
+*.tmp
+_sd/
+_SAVE_BACKUPS/
+GT7CreditEditor.Test.exe
+*.pdb
+*.obj
+bin/
+obj/

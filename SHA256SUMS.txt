@@ -1,0 +1,2 @@
+# SHA-256 do executavel publicado no release v1.0.0
+f93f3c40fa0e55476accf79fb6e870d9fd4408a7117cb6db7861c6f3ad980c19  GT7CreditEditor.exe
